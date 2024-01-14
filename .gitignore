@@ -262,3 +262,11 @@ $RECYCLE.BIN/
 # Binaries
 [Bb]in/
 [Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+bin/
+obj/
