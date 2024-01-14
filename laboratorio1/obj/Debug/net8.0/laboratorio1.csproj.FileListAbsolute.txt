@@ -1,0 +1,14 @@
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/bin/Debug/net8.0/laboratorio1
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/bin/Debug/net8.0/laboratorio1.deps.json
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/bin/Debug/net8.0/laboratorio1.runtimeconfig.json
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/bin/Debug/net8.0/laboratorio1.dll
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/bin/Debug/net8.0/laboratorio1.pdb
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/obj/Debug/net8.0/laboratorio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/obj/Debug/net8.0/laboratorio1.AssemblyInfoInputs.cache
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/obj/Debug/net8.0/laboratorio1.AssemblyInfo.cs
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/obj/Debug/net8.0/laboratorio1.csproj.CoreCompileInputs.cache
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/obj/Debug/net8.0/laboratorio1.dll
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/obj/Debug/net8.0/refint/laboratorio1.dll
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/obj/Debug/net8.0/laboratorio1.pdb
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/obj/Debug/net8.0/laboratorio1.genruntimeconfig.cache
+/home/university/Desktop/2td Sem/Programacion 3/VisualStudioCode/laboratorio1/obj/Debug/net8.0/ref/laboratorio1.dll
