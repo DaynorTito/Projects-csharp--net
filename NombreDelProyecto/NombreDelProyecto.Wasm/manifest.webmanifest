@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "NombreDelProyecto",
+  "display": "standalone",
+  "name": "NombreDelProyecto",
+  "short_name": "NombreDelProyecto",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
